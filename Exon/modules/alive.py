@@ -45,7 +45,7 @@ ASAU = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢokʀᴏᴜᴘ ",
             url=f"https://t.me/{fuck}?startgroup=true",
         ),
     ],
